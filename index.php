@@ -141,6 +141,7 @@
 			<input type="hidden" name="photo-filepath" id="photo-filepath" />
 			<input type="submit" id="save" value="Save entry" />
 		</form>
+		This is a test...
 	</div>
 </body>
 </html>
